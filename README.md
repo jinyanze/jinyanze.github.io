@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到东方幻想乡
 
 You can use the [editor on GitHub](https://github.com/jinyanze/jinyanze.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
